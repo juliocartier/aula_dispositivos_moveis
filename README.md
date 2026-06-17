@@ -16,7 +16,8 @@ O objetivo desta atividade é praticar o uso das ferramentas **Git** e **GitHub*
 
 Durante a realização da atividade, foram utilizados os seguintes comandos no terminal Git Bash:
 
-
+# Exercício de Dispositivos Móveis
+Aluna: Debora Maestrini Boone Santos
 
 ```bash
 
